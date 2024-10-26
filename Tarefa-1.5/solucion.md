@@ -53,10 +53,10 @@
 
     -Zona inversa (db.20.168.192):
 
-    ![Captura9](imaxes\Captura9.png)
+    ![Captura9](imaxes/Captura9.png)
 
     -Comprobamos:
-    ![Captura10](imaxes\Captura10.png)
+    ![Captura10](imaxes/Captura10.png)
 
 
 - Instala no equipo leia (Debian/Ubuntu Server) un subdominio delegado de "starwars.lan" chamado imperio. Engade nel os rexistros:
@@ -65,13 +65,13 @@
     - Captura as dúas zonas, e un cliente resolvendo un rexistro  A do dominio e do subdominio contra leia e darthvader
 
     -Subdominio delegado en leia (db.imperio.starwars.lan):
-    ![Captura11](imaxes\Captura11.png)
+    ![Captura11](imaxes/Captura11.png)
 
     -named.conf.local en leia:
-    ![Captura12](imaxes\Captura12.png)
+    ![Captura12](imaxes/Captura12.png)
 
     -Zona primaria (db.starwars.lan):
-    ![Captura12.2](imaxes\Captura12_2.png)
+    ![Captura12.2](imaxes/Captura12_2.png)
 
     -Comprobamos:
-    ![Captura13](imaxes\Captura13.png)
+    ![Captura13](imaxes/Captura13.png)
