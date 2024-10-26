@@ -49,7 +49,7 @@
 
     -Zona directa (db.starwars.lan):
 
-    ![Captura8](imaxes\Captura8.png)
+    ![Captura8](imaxes/Captura8.png)
 
     -Zona inversa (db.20.168.192):
 
